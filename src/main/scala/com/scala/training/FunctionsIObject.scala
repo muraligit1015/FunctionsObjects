@@ -7,6 +7,7 @@ object FunctionsIObject {
     val x1 = args(0)
     val x2 = args(1)
     println("the concat is "+ x1 + x2)
+    println("version2")
 
   }
 val a1 = new FunctionMethods //  object creation for method 1

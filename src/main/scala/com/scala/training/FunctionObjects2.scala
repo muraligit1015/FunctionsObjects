@@ -5,6 +5,7 @@ class FunctionObjects2 {
     println("function object is  program is execution")
        val c = a+b
        println( "the out put is " )
+       println("version2")
       c
 
   }
